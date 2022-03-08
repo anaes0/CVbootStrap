@@ -18,10 +18,10 @@
 		</div>		
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-2 col-md-2 col-lg-4">
+				<div class="col-sm-2 col-md-6 col-lg-4">
 				<img src="images/img.jpg" alt="girl cv picture" />
 				</div>
-				<div class="col-sm-9 col-md-9 col-lg-8">
+				<div class="col-sm-9 col-md-6 col-lg-8">
 				<h5> FUTURE WEB DEVELOPER </h5>
 		
 				<p class="intro">A flexible, open-minded person, eager to learn, and overcome challenges. <span class="introBold"> Passionate about web development </span> as it allows people to get together to build

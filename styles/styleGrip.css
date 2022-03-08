@@ -46,8 +46,8 @@ a {
 	font-size:;
 	}
 a:hover {
-color: #c06c84;
-background-color: #fff;
+	color: #c06c84;
+	background-color: #fff;
 }
 div {
   justify-content: flex-start;
@@ -61,7 +61,7 @@ margin: 0 0 0 0;
 padding-top: 10px;
 padding-right: 50px;
 padding-bottom: 10px;
-padding-left: 40%;
+padding-left: 38%;
 list-style: none; 
 border-bottom: 1px solid white;
 border-top: 1px solid white;
@@ -74,7 +74,7 @@ display: block;
 padding: 8px 15px; 
 text-decoration: none; 
 font-weight: bold;
-font-size:smaller;
+font-size:normal;
 color: #50595c;
 border-right: 1px solid #ccc;
 } 
@@ -89,31 +89,18 @@ background-color: #fff;
 }
 .intro{
 	color:#50595c;
-	font-size:smaller;
+	font-size:normal;
 	text-align:justify;
 	margin:0 auto;
-	width:30em;
-		
+	width:40em;	
 }
 .introBold {
 	font-weight:bold;
 }
-.center-list{
-	text-align:center;
-	width:60%;
-	margin:0 auto;
-}
-.center-list ul,
-.center-list ol {
-	position:relative;
-	color:#50595c;
-	text-align:left;
-	display:inline-block;
-	font-family:Poppins,sans-serif;
-}
 .header{
 	color:#c06c84;
-	text-shadow:2px 2px 3px #e99b9b;	
+	text-shadow:2px 2px 3px #e99b9b;
+	font-size:normal;	
 }
 .employer{	
 	font-weight:bolder;
@@ -150,4 +137,12 @@ background-color: #fff;
 	margin-top:100px;
 	min-height:100px;
 	justify-content:space-between;
+}
+.skills{
+	text-align: justify;
+	text-justify: inter-word;
+}
+.list-group{
+	width:35%;
+	margin: 0 auto;
 }
